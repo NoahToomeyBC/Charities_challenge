@@ -21,7 +21,7 @@ In this project, we looked for a way to start building a neural network that wil
 ### Compiling, Training, and Evaluating the Model
 
 - How many neurons, layers, and activation functions did you select for your neural network model, and why?
-!PICTURE HERE!
+![layer_info](https://user-images.githubusercontent.com/85508764/138615135-bdb55a33-c900-4f40-b478-b4b543a7e639.png)
     - Neurons:
         - Layer 1: 100
         - Layer 2: 50
@@ -41,6 +41,6 @@ In this project, we looked for a way to start building a neural network that wil
 
 ## Summary
 
-! RESULTS SUMMARY PICTURE !
+![results](https://user-images.githubusercontent.com/85508764/138615140-810b97c0-274c-4dd4-afe2-c7d539b82da7.png)
 
 While neural networks are effective at getting precise outcomes, the internal workings of the algorithms are something of a mystery. We would suggest potentially using a supervised learning model so that additional information can be gleaned from the results which will help make informed decisions about whether or not to give applicants funding.
